@@ -62,7 +62,7 @@
 
 ### 🌐 Let's Connect
 
-- 💼 Portfolio: [your-portfolio.com](https://github-account-lookup.vercel.app/)
+- 💼 Portfolio: [portfolio](https://github-account-lookup.vercel.app/)
 - 📫 Email: [krishna@example.com](mailto:ksahahi488@gmail.com)
 
 ---
